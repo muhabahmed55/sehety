@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744260847099",
+    "project_id": "sehety-728c7",
+    "storage_bucket": "sehety-728c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744260847099:android:9e405795b9e55b9662775e",
+        "android_client_info": {
+          "package_name": "com.example.sehety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744260847099-jbcauhnudcrpp6bgjn25821j0nj23pv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChkiCKNJU_XWX5bFZjTtYrcUOccriG59g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744260847099-jbcauhnudcrpp6bgjn25821j0nj23pv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
